@@ -1,0 +1,32 @@
+
+#searchbar {
+  background-color: transparent;
+  flex: 1;
+  display: flex;
+  padding: 5px 8px 0 16px;
+  padding-left: 14px;
+}
+
+.searcharea {
+    flex: 1;
+    display: flex;
+    padding: 20px
+    padding-left: 14px;
+    align-items: center;
+}
+
+.Google {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 92px;
+    max-height: 290px;
+}
+
+#buttons {
+  display:inline-block
+}
+
+.container{
+  align-items: center;
+}
